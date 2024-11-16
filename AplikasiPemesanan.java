@@ -17,8 +17,7 @@ public class AplikasiPemesanan extends javax.swing.JFrame {
      *
      */
     
-    public AplikasiPemesanan
-() {
+    public AplikasiPemesanan() {
         initComponents();
     }
 
